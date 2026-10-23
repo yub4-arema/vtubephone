@@ -1,0 +1,11 @@
+{
+  "id": "poke",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 1
+    }
+  ]
+}

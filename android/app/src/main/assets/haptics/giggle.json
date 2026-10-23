@@ -1,0 +1,41 @@
+{
+  "id": "giggle",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "quick_rise",
+      "scale": 0.4
+    },
+    {
+      "t": 155,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.35
+    },
+    {
+      "t": 195,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.6
+    },
+    {
+      "t": 310,
+      "type": "primitive",
+      "name": "quick_rise",
+      "scale": 0.3
+    },
+    {
+      "t": 470,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.55
+    },
+    {
+      "t": 505,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.3
+    }
+  ]
+}

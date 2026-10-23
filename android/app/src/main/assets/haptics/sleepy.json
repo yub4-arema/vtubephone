@@ -1,0 +1,46 @@
+{
+  "id": "sleepy",
+  "render": "waveform",
+  "events": [
+    {
+      "t": 0,
+      "type": "continuous",
+      "duration": 1400,
+      "intensity": [
+        [
+          0,
+          0
+        ],
+        [
+          630,
+          0.22
+        ],
+        [
+          1400,
+          0
+        ]
+      ],
+      "sharpness": 0.05
+    },
+    {
+      "t": 1900,
+      "type": "continuous",
+      "duration": 1600,
+      "intensity": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          0.15
+        ],
+        [
+          1600,
+          0
+        ]
+      ],
+      "sharpness": 0.05
+    }
+  ]
+}

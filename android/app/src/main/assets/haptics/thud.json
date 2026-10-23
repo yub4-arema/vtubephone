@@ -1,0 +1,23 @@
+{
+  "id": "thud",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "thud",
+      "scale": 1
+    },
+    {
+      "t": 360,
+      "type": "primitive",
+      "name": "low_tick",
+      "scale": 0.4
+    },
+    {
+      "t": 460,
+      "type": "primitive",
+      "name": "low_tick",
+      "scale": 0.2
+    }
+  ]
+}

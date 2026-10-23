@@ -1,0 +1,77 @@
+{
+  "id": "nervous",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.18
+    },
+    {
+      "t": 27,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.25
+    },
+    {
+      "t": 62,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.16
+    },
+    {
+      "t": 91,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.3
+    },
+    {
+      "t": 129,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.22
+    },
+    {
+      "t": 155,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.17
+    },
+    {
+      "t": 187,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.28
+    },
+    {
+      "t": 226,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.2
+    },
+    {
+      "t": 254,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.25
+    },
+    {
+      "t": 287,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.16
+    },
+    {
+      "t": 324,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.22
+    },
+    {
+      "t": 350,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.18
+    }
+  ]
+}

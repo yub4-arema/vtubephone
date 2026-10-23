@@ -1,0 +1,41 @@
+{
+  "id": "heartbeat",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "click",
+      "scale": 0.9
+    },
+    {
+      "t": 120,
+      "type": "primitive",
+      "name": "low_tick",
+      "scale": 0.5
+    },
+    {
+      "t": 650,
+      "type": "primitive",
+      "name": "click",
+      "scale": 0.9
+    },
+    {
+      "t": 770,
+      "type": "primitive",
+      "name": "low_tick",
+      "scale": 0.5
+    },
+    {
+      "t": 1300,
+      "type": "primitive",
+      "name": "click",
+      "scale": 0.9
+    },
+    {
+      "t": 1420,
+      "type": "primitive",
+      "name": "low_tick",
+      "scale": 0.5
+    }
+  ]
+}

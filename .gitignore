@@ -1,0 +1,32 @@
+# Android / Gradle
+android/.gradle/
+android/.kotlin/
+android/build/
+android/*/build/
+android/local.properties
+android/.idea/
+android/captures/
+*.apk
+*.aab
+
+# Legacy Unity (reference only)
+legacy-unity/Library/
+legacy-unity/Temp/
+legacy-unity/tools/**/bin/
+legacy-unity/tools/**/obj/
+
+# Owner-provided models and SDKs (license: do not commit)
+*.vrm
+*.moc3
+legacy-unity/Assets/UserModels/
+
+# Tooling output
+artifacts/
+
+# Server
+server/node_modules/
+server/dist/
+server/.env
+
+.DS_Store
+Thumbs.db

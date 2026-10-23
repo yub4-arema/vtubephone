@@ -1,0 +1,11 @@
+{
+  "id": "bump",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "click",
+      "scale": 0.5
+    }
+  ]
+}

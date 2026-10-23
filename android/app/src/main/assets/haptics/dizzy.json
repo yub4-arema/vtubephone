@@ -1,0 +1,23 @@
+{
+  "id": "dizzy",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "spin",
+      "scale": 0.9
+    },
+    {
+      "t": 180,
+      "type": "primitive",
+      "name": "spin",
+      "scale": 0.6
+    },
+    {
+      "t": 360,
+      "type": "primitive",
+      "name": "spin",
+      "scale": 0.3
+    }
+  ]
+}

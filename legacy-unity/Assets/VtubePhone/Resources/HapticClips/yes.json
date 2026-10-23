@@ -1,0 +1,17 @@
+{
+  "id": "yes",
+  "events": [
+    {
+      "t": 0,
+      "type": "transient",
+      "intensity": 0.55,
+      "sharpness": 0.85
+    },
+    {
+      "t": 110,
+      "type": "transient",
+      "intensity": 0.95,
+      "sharpness": 1
+    }
+  ]
+}

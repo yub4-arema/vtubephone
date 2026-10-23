@@ -1,0 +1,30 @@
+{
+  "id": "sigh",
+  "render": "waveform",
+  "events": [
+    {
+      "t": 0,
+      "type": "continuous",
+      "duration": 1300,
+      "intensity": [
+        [
+          0,
+          0
+        ],
+        [
+          250,
+          0.4
+        ],
+        [
+          350,
+          0.38
+        ],
+        [
+          1300,
+          0
+        ]
+      ],
+      "sharpness": 0.15
+    }
+  ]
+}

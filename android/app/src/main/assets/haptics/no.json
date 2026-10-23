@@ -1,0 +1,17 @@
+{
+  "id": "no",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "slow_rise",
+      "scale": 0.4
+    },
+    {
+      "t": 500,
+      "type": "primitive",
+      "name": "quick_fall",
+      "scale": 0.8
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "heartbeat",
+  "events": [
+    {
+      "t": 0,
+      "type": "transient",
+      "intensity": 0.85,
+      "sharpness": 0.18
+    },
+    {
+      "t": 150,
+      "type": "transient",
+      "intensity": 0.5,
+      "sharpness": 0.22
+    },
+    {
+      "t": 750,
+      "type": "transient",
+      "intensity": 0.85,
+      "sharpness": 0.18
+    },
+    {
+      "t": 900,
+      "type": "transient",
+      "intensity": 0.5,
+      "sharpness": 0.22
+    }
+  ]
+}

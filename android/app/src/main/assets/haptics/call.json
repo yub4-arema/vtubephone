@@ -1,0 +1,23 @@
+{
+  "id": "call",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "click",
+      "scale": 0.7
+    },
+    {
+      "t": 160,
+      "type": "primitive",
+      "name": "click",
+      "scale": 0.8
+    },
+    {
+      "t": 320,
+      "type": "primitive",
+      "name": "click",
+      "scale": 0.9
+    }
+  ]
+}

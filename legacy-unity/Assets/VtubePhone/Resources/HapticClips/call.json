@@ -1,0 +1,23 @@
+{
+  "id": "call",
+  "events": [
+    {
+      "t": 0,
+      "type": "transient",
+      "intensity": 0.7,
+      "sharpness": 0.8
+    },
+    {
+      "t": 100,
+      "type": "transient",
+      "intensity": 0.8,
+      "sharpness": 0.85
+    },
+    {
+      "t": 200,
+      "type": "transient",
+      "intensity": 0.9,
+      "sharpness": 0.9
+    }
+  ]
+}

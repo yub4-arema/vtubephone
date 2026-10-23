@@ -1,0 +1,11 @@
+{
+  "id": "poke",
+  "events": [
+    {
+      "t": 0,
+      "type": "transient",
+      "intensity": 0.8,
+      "sharpness": 1
+    }
+  ]
+}

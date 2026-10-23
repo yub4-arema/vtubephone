@@ -1,0 +1,17 @@
+{
+  "id": "yes",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 0.5
+    },
+    {
+      "t": 110,
+      "type": "primitive",
+      "name": "tick",
+      "scale": 1
+    }
+  ]
+}

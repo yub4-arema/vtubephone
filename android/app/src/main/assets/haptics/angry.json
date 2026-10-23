@@ -1,0 +1,17 @@
+{
+  "id": "angry",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "thud",
+      "scale": 0.9
+    },
+    {
+      "t": 300,
+      "type": "primitive",
+      "name": "thud",
+      "scale": 1
+    }
+  ]
+}

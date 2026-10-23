@@ -1,0 +1,77 @@
+{
+  "id": "nervous",
+  "events": [
+    {
+      "t": 0,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 42,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 84,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 126,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 168,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 210,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 252,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 294,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 336,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 378,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 420,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    },
+    {
+      "t": 462,
+      "type": "transient",
+      "intensity": 0.35,
+      "sharpness": 0.95
+    }
+  ]
+}

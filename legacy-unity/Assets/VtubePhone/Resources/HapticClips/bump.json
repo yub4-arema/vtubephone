@@ -1,0 +1,11 @@
+{
+  "id": "bump",
+  "events": [
+    {
+      "t": 0,
+      "type": "transient",
+      "intensity": 0.7,
+      "sharpness": 0.38
+    }
+  ]
+}

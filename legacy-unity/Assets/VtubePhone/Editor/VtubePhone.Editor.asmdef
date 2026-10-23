@@ -1,0 +1,1 @@
+{"name":"VtubePhone.Editor","references":["VtubePhone.Core","VtubePhone.Runtime","Unity.InputSystem","UnityEngine.UI"],"includePlatforms":["Editor"]}

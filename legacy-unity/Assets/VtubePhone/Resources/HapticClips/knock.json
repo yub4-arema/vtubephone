@@ -1,0 +1,17 @@
+{
+  "id": "knock",
+  "events": [
+    {
+      "t": 0,
+      "type": "transient",
+      "intensity": 0.9,
+      "sharpness": 0.25
+    },
+    {
+      "t": 170,
+      "type": "transient",
+      "intensity": 0.85,
+      "sharpness": 0.25
+    }
+  ]
+}

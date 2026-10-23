@@ -1,0 +1,17 @@
+{
+  "id": "surprise",
+  "events": [
+    {
+      "t": 0,
+      "type": "primitive",
+      "name": "quick_rise",
+      "scale": 1
+    },
+    {
+      "t": 150,
+      "type": "primitive",
+      "name": "thud",
+      "scale": 0.85
+    }
+  ]
+}
